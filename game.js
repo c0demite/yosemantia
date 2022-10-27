@@ -193,13 +193,7 @@ const textNodes = [
 
     ]
   },
-  {
-    id: 11,
-    text: '',
-    options: [
 
-    ]
-  },
 ]
 
 startGame()
