@@ -2114,6 +2114,12 @@
     .nes-container{
         width: 800px;
     }
+    .content{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
   }
   @media only screen and (max-width: 800px) {
     .nes-text{
