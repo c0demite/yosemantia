@@ -170,7 +170,7 @@ const textNodes = [
     options: [
       {
         text: 'Przeszukaj zamek',
-        nextText: 4
+        nextText: 12
       },
       {
         text: 'Znajdz pokoj w ktorym sie przespisz',
@@ -187,7 +187,7 @@ const textNodes = [
         nextText: 11
       },
       {
-        text: 'Wejdz do wielkiej komnaty',
+        text: 'Przeszukaj zamek',
         nextText: 12
       },
 
