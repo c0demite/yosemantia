@@ -57,6 +57,7 @@ const textNodes = [
       },
       {
         text: 'Zostawiam sloik, po co mi to',
+        setState: { bezplynu: true },
         nextText: 3
       }
     ]
@@ -83,11 +84,12 @@ const textNodes = [
         text: 'Wymien niebieski plyn na jedzenie',
         requiredState: (currentState) => currentState.NiebieskiPlyn,
         setState: { NiebieskiPlyn: false, bulka: true },
-        nextText: 5
+        nextText: 6
       },
       {
         text: 'Zignoruj handlarza',
-        nextText: 5
+        requiredState: (currentState) => currentState.NiebieskiPlyn,
+        nextText: 6
       }
     ]
   },
@@ -103,7 +105,23 @@ const textNodes = [
       },
       {
         text: 'odejdz',
-        nextText: 5
+        requiredState: (currentState) => currentState.NiebieskiPlyn,
+        nextText: 6
+      },
+      {
+        text: 'odejdz',
+        requiredState: (currentState) => currentState.bezplynu,
+        nextText: 8
+      }
+    ]
+  },
+  {
+    id: 5,
+    text: 'Handlarz: Jak mozesz nie wiedziec gdzie jestes glupcze... Jestesmy w bridgewood wiosce biedakow ',
+    options: [
+      {
+        text: 'odejdz',
+        nextText: 6
       }
     ]
   },
@@ -112,23 +130,76 @@ const textNodes = [
     text: 'Odchodzisz i po chwili zaczynasz czuc zmeczenie',
     options: [
       {
-        text: 'zjedz jedzenie ktore kupiles',
-        requiredState: (currentState) => currentState.bulka,
-        setState: { bulka: false},
-        nextText: 5
-      },
-      {
-        text: 'Wypijam niebieski plyn',
+        text: 'Wypij niebieski plyn',
         requiredState: (currentState) => currentState.NiebieskiPlyn,
         nextText: 2
       },
       {
-        text: 'idziesz do zamku za gorka',
-        nextText: 5
+        text: 'idz do zamku za gorka',
+        nextText: 9
+      },
+      {
+        text: 'przespij sie',
+        nextText: 7
       }
     ]
   },
-  
+  {
+    id: 7,
+    text: 'Banda biedakow cie atakuje kiedy spisz, umierasz',
+    options: [
+      {
+        text: 'Sprobuj ponownie',
+        nextText: -1
+      }
+    ]
+  },
+  {
+    id: 8,
+    text: 'Handlarz cie napada, umierasz',
+    options: [
+      {
+        text: 'Sprobuj ponownie',
+        nextText: -1
+      }
+    ]
+  },
+  {
+    id: 9,
+    text: 'Wchodzisz do zamku',
+    options: [
+      {
+        text: 'Przeszukaj zamek',
+        nextText: 4
+      },
+      {
+        text: 'Znajdz pokoj w ktorym sie przespisz',
+        nextText: 10
+      },
+    ]
+  },
+  {
+    id: 10,
+    text: 'Burczy ci w brzuchu',
+    options: [
+      {
+        text: 'Zjedz bulke ktora kupiles u handlarza',
+        nextText: 11
+      },
+      {
+        text: 'Wejdz do wielkiej komnaty',
+        nextText: 12
+      },
+
+    ]
+  },
+  {
+    id: 11,
+    text: '',
+    options: [
+
+    ]
+  },
 ]
 
 startGame()
