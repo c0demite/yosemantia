@@ -14,6 +14,9 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
     
     }
  
@@ -41,7 +44,9 @@
     justify-content: center;
     align-items: center;
     gap: 100px;
-}
+
+  }
+
 
 
  article,
@@ -2106,7 +2111,20 @@
    outline-color: #e7e7e7;
  }
  /*# sourceMappingURL=nes-core.css.map */
-
+ @media only screen and (max-width: 2000px) {
+  .nes-text{
+      font-size: 70px;
+  }
+  .nes-container{
+      width: 1000px;
+  }
+  .content{
+      display: grid;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+  }
+}
  @media only screen and (max-width: 1200px) {
     .nes-text{
         font-size: 70px;
