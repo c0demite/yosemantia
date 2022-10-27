@@ -6,13 +6,18 @@ margin: 0;
 }
 
 body{
-  display: flex;
-  justify-content: center;
+  display: grid;
   align-items: center;
   width: 100vw;
   height: 100vh;
   background: #212529;
 
+}
+.content{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
 }
 .btn-grid{
     display: grid;
@@ -20,10 +25,8 @@ body{
 }
 .nes-container{
     width: 1200px;
-    
 }
 .nes-btn{
-    height: 50px;
 
     color: #fff;
     background: #212529;
@@ -33,6 +36,29 @@ body{
 
     box-shadow: inset -4px -4px #3d4144;
   }
+  .nes-text{
+    text-align: center;
+    font-size: 100px;
+}
 
 
+@media only screen and (max-width: 1200px) {
+    .nes-text{
+        font-size: 70px;
+    }
+    .nes-container{
+        width: 800px;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .nes-text{
+        font-size: 30px;
+    }
+    .nes-container{
+        width: 350px;
+    }
+    .content{
+        gap: 50px;
+    }
+  }
 

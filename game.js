@@ -37,7 +37,9 @@ function selectOption(option) {
   }
   state = Object.assign(state, option.setState)
   showTextNode(nextTextNodeId)
+  onclick.pictureChange()
 }
+
 
 const textNodes = [
   {
