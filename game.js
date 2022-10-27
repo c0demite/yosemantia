@@ -51,12 +51,12 @@ const textNodes = [
         nextText: 2
       },
       {
-        text: 'Zabieram sloik ze soba',
+        text: 'Zabierz sloik ze soba',
         setState: { NiebieskiPlyn: true },
         nextText: 3
       },
       {
-        text: 'Zostawiam sloik, po co mi to',
+        text: 'Zostaw sloik',
         setState: { bezplynu: true },
         nextText: 3
       }
