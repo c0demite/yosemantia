@@ -47,7 +47,7 @@ const textNodes = [
     text: 'Budzisz sie w dziwnym miejscu, jest ci zimno i jestes glodny, przed toba lezy sloik wypelniony niebieskim plynem',
     options: [
       {
-        text: 'Wypijam niebieski plyn',
+        text: 'Wypij niebieski plyn',
         nextText: 2
       },
       {
