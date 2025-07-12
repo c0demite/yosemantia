@@ -1,0 +1,199 @@
+YOSEMANTIA - ANALIZA FABUŁY I WĄTKI ROZSZERZONE
+
+=== OBECNA STRUKTURA GIRY ===
+
+PUNKT STARTOWY (Węzeł 1):
+- Budzenie się w dziwnym miejscu
+- Niebieski płyn - kluczowy przedmiot
+- Wybór: wypić/zabrać/zostawić
+
+GŁÓWNE ŚCIEŻKI:
+1. ŚMIERĆ OD TRUCIZNY (Węzeł 2) - natychmiastowa śmierć
+2. KONTAKT Z HANDLARZEM (Węzły 3-5) - wprowadzenie do świata
+3. EKSPLORACJA (Węzły 6-15) - główna część przygody
+
+=== ANALIZA OBECNYCH WĄTKÓW ===
+
+WĄTEK A: HANDLARZ I BRIDGEWOOD
+- Miejsce: Bridgewood - wioska biedaków
+- Postać: Handlarz (tajemniczy, agresywny)
+- Mechanika: wymiana przedmiotów
+- Problem: brak głębszej charakterystyki
+
+WĄTEK B: ZAMEK ZA GÓRKĄ
+- Lokacja: Zamek (opuszczony?)
+- Cel: poszukiwanie skarbu
+- Zakończenie: znalezienie złota i magicznego miecza
+- Wybór: powrót jako bohater vs dalsze przygody
+
+WĄTEK C: SYSTEM PRZETRWANIA
+- Głód (potrzeba jedzenia)
+- Zmęczenie (potrzeba snu)
+- Niebezpieczeństwa (bandyci, agresywny handlarz)
+
+=== ROZSZERZONE WĄTKI FABULARNE ===
+
+WĄTEK 1: TAJEMNICA NIEBIESKIEGO PŁYNU
+├── 1.1 Pochodzenie płynu
+│   ├── Alchemik z zamku
+│   ├── Magiczna trucizna
+│   └── Eliksir transformacji
+├── 1.2 Skutki płynu
+│   ├── Wizje przeszłości
+│   ├── Nadprzyrodzone moce
+│   └── Klątwa nieśmiertelności
+└── 1.3 Poszukiwanie antidotum
+    ├── Stary grimoire w zamku
+    ├── Mędrzec w lesie
+    └── Świątynia na wzgórzu
+
+WĄTEK 2: HISTORIA BRIDGEWOOD
+├── 2.1 Przeszłość wioski
+│   ├── Dawny prosperity
+│   ├── Klątwa lub choroba
+│   └── Opuszczenie przez możnych
+├── 2.2 Obecni mieszkańcy
+│   ├── Handlarz - były alchemik
+│   ├── Banda biedaków - dawni żołnierze
+│   ├── Stara kobieta - pamięta lepsze czasy
+│   └── Dziecko - jedyna nadzieja
+└── 2.3 Możliwość odnowy
+    ├── Odnalezienie zaginionego skarbu
+    ├── Zdjęcie klątwy
+    └── Sprowadzenie nowych osadników
+
+WĄTEK 3: ZAMEK I JEGO SEKRETY
+├── 3.1 Historia zamku
+│   ├── Lord Yosemantia - pierwotny właściciel
+│   ├── Laboratorium alchemiczne
+│   └── Ukryte komnaty
+├── 3.2 Obecni mieszkańcy
+│   ├── Duchy przeszłości
+│   ├── Magiczne stworzenia
+│   ├── Szalony alchemik
+│   └── Uwięziony lord
+└── 3.3 Skarby i artefakty
+    ├── Magiczny miecz Świtu
+    ├── Księga zaklęć
+    ├── Kamień filozoficzny
+    └── Mapa do innych krain
+
+WĄTEK 4: ŚWIAT ZEWNĘTRZNY
+├── 4.1 Sąsiednie krainy
+│   ├── Królestwo Astoria
+│   ├── Pustkowie Cieni
+│   ├── Port Morski Seahaven
+│   └── Góry Tytan
+├── 4.2 Organizacje i frakcje
+│   ├── Gildia Alchemików
+│   ├── Zakon Światła
+│   ├── Piraci z Seahaven
+│   └── Kult Cieni
+└── 4.3 Główni antagoniści
+    ├── Arcyalchemik Malachar
+    ├── Królowa Cieni
+    ├── Kapitan piratów Redbeard
+    └── Demon z Czeluści
+
+WĄTEK 5: ROZWÓJ POSTACI
+├── 5.1 Umiejętności
+│   ├── Alchemia - nauka tworzenia eliksirów
+│   ├── Walka - trening z mieczem
+│   ├── Dyplomacja - przekonywanie NPCów
+│   └── Skradanie - unikanie konfliktów
+├── 5.2 Reputacja
+│   ├── Bohater Bridgewood
+│   ├── Poszukiwacz przygód
+│   ├── Alchemik-nowicjusz
+│   └── Wróg kultów
+└── 5.3 Ekwipunek
+    ├── Broń (miecz, łuk, różdżka)
+    ├── Zbroja (skórzana, kolcza, magiczna)
+    ├── Eliksiry (leczenie, siła, niewidzialność)
+    └── Artefakty (amulety, pierścienie, księgi)
+
+=== NOWE LOKACJE DO DODANIA ===
+
+1. LAS SZEPTÓW
+   - Stary mędrzec eremita
+   - Magiczne zwierzęta
+   - Ukryte groty z eliksirami
+
+2. ŚWIĄTYNIA SŁOŃCA
+   - Kapłani Światła
+   - Rytuały oczyszczenia
+   - Walka z demonami
+
+3. RUINY STAREGO MIASTA
+   - Archeologiczne znaleziska
+   - Pułapki i zagadki
+   - Księgi historyczne
+
+4. JASKINIE KRYSZTAŁOWE
+   - Magiczne kryształy
+   - Podziemne jezioro
+   - Starożytny smok
+
+5. TWIERDZA CIENI
+   - Finałowa lokacja
+   - Walka z głównym bossem
+   - Wielkie zakończenie
+
+=== MECHANIKI DO ROZWINIĘCIA ===
+
+1. SYSTEM INWENTARZA
+   - Ograniczona przestrzeń
+   - Przedmioty kombinowalne
+   - Handel z NPCami
+
+2. SYSTEM RELACJI
+   - Punkty zaufania z postaciami
+   - Różne dialogi w zależności od reputacji
+   - Romantyczne wątki
+
+3. SYSTEM WALKI
+   - Wybór taktyki
+   - Różne rodzaje broni
+   - Magiczne zaklęcia
+
+4. SYSTEM CRAFTINGU
+   - Tworzenie eliksirów
+   - Ulepszanie broni
+   - Miksowanie składników
+
+5. SYSTEM SAVE'ów
+   - Zapisywanie postępu
+   - Różne sloty
+   - Powrót do wcześniejszych wyborów
+
+=== MOŻLIWE ZAKOŃCZENIA ===
+
+1. HERO ENDING - Uratowanie Bridgewood i zostanie lordem
+2. EXPLORER ENDING - Wyruszenie na dalsze przygody
+3. ALCHEMIST ENDING - Odnalezienie sekretu niebieskiego płynu
+4. DARK ENDING - Przyłączenie się do kultów
+5. SACRIFICE ENDING - Poświęcenie się dla ratowania świata
+6. NEUTRAL ENDING - Życie jako zwykły mieszkaniec
+7. SECRET ENDING - Odkrycie prawdy o własnej tożsamości
+
+=== PLANY ROZWOJU ===
+
+FAZA 1: Rozszerzenie obecnych węzłów (16-30)
+- Dodanie NPCów w Bridgewood
+- Rozwinięcie historii handlarza
+- Więcej pomieszczeń w zamku
+
+FAZA 2: Nowe lokacje (31-50)
+- Las Szeptów
+- Świątynia Słońca
+- Ruiny
+
+FAZA 3: Zaawansowane mechaniki (51-80)
+- System inwentarza
+- Walka
+- Crafting
+
+FAZA 4: Finałowe lokacje (81-100)
+- Twierdza Cieni
+- Wielkie zakończenia
+- Sekrety świata

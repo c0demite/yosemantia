@@ -1,0 +1,138 @@
+PLAN ROZWOJU WĘZŁÓW - FAZA 1 (Węzły 16-30)
+
+=== OBECNY STAN ===
+Węzły 1-15: Kompletne, działające
+Lokacje: Miejsce przebudzenia, Bridgewood, Zamek
+NPCs: Handlarz
+
+=== WĘZŁY DO DODANIA - FAZA 1 ===
+
+WĘZEŁ 16: EKSPLORACJA BRIDGEWOOD
+Tekst: "Rozglądasz się po wiosce Bridgewood. Widzisz zniszczone chaty, ale także kilka mieszkańców."
+Opcje:
+- Podejdź do starej kobiety przy studni → 17
+- Zagadaj dziecko bawiące się w błocie → 18  
+- Przeszukaj opuszczone domy → 19
+- Wróć do handlarza → 4
+
+WĘZEŁ 17: STARA KOBIETA
+Tekst: "Stara kobieta: 'Ach, obcy... Dawno nikogo tu nie widziałam. Ta wioska była kiedyś piękna...'"
+Opcje:
+- "Opowiedz mi o przeszłości wioski" → 20
+- "Co się stało z mieszkańcami?" → 21
+- "Gdzie mogę znaleźć jedzenie?" → 22
+- "Żegnaj" → 16
+
+WĘZEŁ 18: DZIECKO
+Tekst: "Dziecko patrzy na ciebie wielkimi oczami: 'Pan nie jest stąd, prawda? Mama mówiła żeby uważać na obcych...'"
+Opcje:
+- "Gdzie jest twoja mama?" → 23
+- "Czy znasz jakieś ciekawe miejsca?" → 24
+- "Masz coś do jedzenia?" (jeśli brak bulki) → 25
+- "Miło było cię poznać" → 16
+
+WĘZEŁ 19: PRZESZUKIWANIE DOMÓW
+Tekst: "W opuszczonych domach znajdujesz stare meble i szczątki dawnego życia."
+Opcje:
+- Przeszukaj dokładniej → 26
+- Sprawdź piwnicę → 27  
+- Wyjdź z domów → 16
+
+WĘZEŁ 20: HISTORIA WIOSKI
+Tekst: "Kobieta: 'Bridgewood słynęło z najlepszych alchemików w królestwie. Ale lord Yosemantia eksperymentował z czymś zakazanym...'"
+Opcje:
+- "Co to był za eksperyment?" → 28
+- "Co się stało z lordem?" → 29
+- "Czy można to naprawić?" → 30
+- "Dziękuję za opowieść" → 17
+
+WĘZEŁ 21: LOS MIESZKAŃCÓW  
+Tekst: "Kobieta: 'Większość uciekła gdy zaczęły się dziwne rzeczy. Zostaliśmy tylko my, najbiedniejsi...'"
+Opcje:
+- "Jakie dziwne rzeczy?" → 31
+- "Dlaczego nie uciekliście?" → 32
+- "Może mogę pomóc?" → 33
+- "Rozumiem..." → 17
+
+WĘZEŁ 22: JEDZENIE W WIOSCE
+Tekst: "Kobieta: 'Mam trochę chleba, ale... mogłbyś mi pomóc w zamian?'"
+Opcje:
+- "Oczywiście, co mam zrobić?" → 34
+- "Nie mam czasu" → 17
+- "Co chcesz w zamian?" → 35
+
+WĘZEŁ 23: MAMA DZIECKA
+Tekst: "Dziecko: 'Mama poszła do lasu szukać ziół... ale to było trzy dni temu...'"
+Opcje:
+- "Pokażesz mi drogę do lasu?" → 36
+- "Zostań tu, znajdę ją" → 37
+- "Może wróciła już do domu?" → 38
+- "Przykro mi..." → 18
+
+WĘZEŁ 24: CIEKAWE MIEJSCA
+Tekst: "Dziecko: 'Jest taka jaskinia za lasem! Mama mówiła żeby tam nie chodzić, bo mieszkają tam dziwne światła...'"
+Opcje:
+- "Pokaż mi tę jaskinię" → 39
+- "Dlaczego nie wolno tam chodzić?" → 40
+- "Znasz inne miejsca?" → 41
+- "Lepiej tam nie chodźmy" → 18
+
+WĘZEŁ 25: PROŚBA O JEDZENIE
+Tekst: "Dziecko: 'Jestem głodne... ale mamy tylko trochę zupy z wody i liści...'"
+Opcje:
+- "Daj mi trochę zupy" (otrzymujesz: wodnista_zupa) → 42
+- "Może masz coś lepszego?" → 43
+- "Znajdę ci prawdziwe jedzenie" → 44
+- "Przykro mi" → 18
+
+WĘZEŁ 26: DOKŁADNE PRZESZUKANIE
+Tekst: "Pod starą deską znajdujesz małą sakiewkę z kilkoma monetami i dziwny amulet."
+Opcje:
+- Weź monety i amulet (otrzymujesz: monety, stary_amulet) → 45
+- Weź tylko monety → 46
+- Zostaw wszystko → 19
+
+WĘZEŁ 27: PIWNICA
+Tekst: "W ciemnej piwnicy widzisz stare beczki i... coś się porusza w kącie!"
+Opcje:
+- Zbadaj ruch → 47
+- Przeszukaj beczki → 48
+- Uciekaj → 19
+
+WĘZEŁ 28: EKSPERYMENT LORDA
+Tekst: "Kobieta: 'Próbował stworzyć eliksir nieśmiertelności... ale zamiast tego uwolnił coś strasznego...'"
+Opcje:
+- "Co uwolnił?" → 49
+- "Gdzie jest ten eliksir?" → 50
+- "Można to cofnąć?" → 51
+- "Rozumiem..." → 20
+
+=== NOWE STANY DO DODANIA ===
+
+monety: false
+stary_amulet: false
+wodnista_zupa: false
+wiedza_o_lordzie: false
+obietnica_pomocy: false
+lokalizacja_jaskini: false
+lokalizacja_lasu: false
+
+=== NOWE PRZEDMIOTY ===
+
+1. Monety - można użyć do handlu
+2. Stary amulet - ochrona przed złymi mocami
+3. Wodnista zupa - słabe odżywienie
+4. Informacje - wiedza o świecie i postaciach
+
+=== MECHANIKA ROZWOJU ===
+
+1. System relacji z NPCami
+2. Zbieranie informacji o świecie
+3. Znajdowanie przedmiotów
+4. Obietnice i zadania do wykonania
+
+=== KOLEJNE FAZY ===
+
+FAZA 2: Węzły 31-50 - Las Szeptów i Jaskinia
+FAZA 3: Węzły 51-70 - Świątynia i nowe lokacje  
+FAZA 4: Węzły 71-100 - Finałowe wątki i zakończenia

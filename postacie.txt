@@ -1,0 +1,173 @@
+CHARAKTERYSTYKI POSTACI - YOSEMANTIA
+
+=== GŁÓWNI BOHATEROWIE ===
+
+GRACZ (Protagonista)
+- Imię: Nieznane (gracz może wybrać)
+- Pochodzenie: Tajemnicze (amnezja?)
+- Cel: Przetrwanie → Odkrycie prawdy → Uratowanie świata
+- Rozwój: Od bezradnego wędrowca do herosa
+- Możliwe ścieżki: Bohater, Poszukiwacz, Alchemik, Ciemna strona
+
+=== MIESZKAŃCY BRIDGEWOOD ===
+
+HANDLARZ
+- Imię: Garrett Ironhand
+- Wiek: ~50 lat
+- Przeszłość: Były alchemik lorda Yosemantii
+- Charakter: Podejrzliwy, chciwy, ale pragmatyczny
+- Sekrety: Wie więcej o niebieskim płynie niż przyznaje
+- Rozwój: Może stać się sprzymierzeńcem lub wrogiem
+- Dialogi: Gruboskórny akcent, używa alchemicznych terminów
+
+STARA KOBIETA
+- Imię: Martha Elderwood  
+- Wiek: ~70 lat
+- Przeszłość: Żona dawnego burmistrza, pamiętająca prosperity
+- Charakter: Mądra, melancholijna, opiekuńcza
+- Rola: Źródło informacji o historii
+- Sekrety: Zna lokalizacje ukrytych skarbów
+- Dialogi: Nostalgiczne wspomnienia, mówi powoli
+
+DZIECKO
+- Imię: Pip
+- Wiek: ~8 lat
+- Przeszłość: Sierota, mama zaginęła w lesie
+- Charakter: Ciekawskie, naiwne, odważne
+- Rola: Przewodnik do sekretnych miejsc
+- Rozwój: Może stać się sidekickiem gracza
+- Dialogi: Prosty język, pełno pytań
+
+ZAGINIONĄ MAMA (ELENA)
+- Imię: Elena Herbwood
+- Wiek: ~30 lat  
+- Przeszłość: Zielarka, znała sekrety lasu
+- Charakter: Odważna, troskliwa, determinowana
+- Los: Uwięziona przez magiczne stworzenia w lesie
+- Rola: Misja ratunkowa, źródło wiedzy o ziołach
+- Potencjał: Może zostać nauczycielką alchemii
+
+=== MIESZKAŃCY ZAMKU ===
+
+LORD YOSEMANTIA
+- Imię: Aldric von Yosemantia
+- Wiek: Nieśmiertelny (~200 lat)
+- Przeszłość: Potężny alchemik, władca zamku
+- Charakter: Szalony geniusz, obsesja na punkcie nieśmiertelności
+- Los: Uwięziony w własnym ciele przez nieudany eksperyment
+- Rola: Główny antagonista lub tragiczny bohater
+- Sekrety: Klucz do zrozumienia niebieskiego płynu
+
+DUCH ŻOŁNIERZA
+- Imię: Sir Marcus Strongarm
+- Wiek: Zmarł 50 lat temu
+- Przeszłość: Kapitan straży zamkowej
+- Charakter: Honorowy, lojalny, melancholijny
+- Rola: Przewodnik po zamku, ostrzeżenia
+- Interakcja: Może pomóc lub utrudniać w zależności od zachowania gracza
+
+ALCHEMIK-GOLEM
+- Imię: Brak (nazywa siebie "Asystent")
+- Pochodzenie: Stworzony przez lorda do pomocy w laboratorium
+- Charakter: Logiczny, posłuszny, ale zyskuje świadomość
+- Rola: Źródło wiedzy alchemicznej
+- Rozwój: Może nauczyć gracza receptur
+
+=== MIESZKAŃCY LASU ===
+
+MĘDRZEC EREMITA
+- Imię: Sage Willowbark
+- Wiek: ~90 lat
+- Przeszłość: Były kapłan, wycofał się po tragedii
+- Charakter: Mądry, spokojny, tajemniczy
+- Rola: Mentor, nauczyciel zaklęć
+- Sekrety: Zna prawdę o pochodzeniu niebieskiego płynu
+
+DRYADA
+- Imię: Sylvana
+- Pochodzenie: Duch lasu
+- Charakter: Dzika, nieufna wobec ludzi, ochrona natury
+- Rola: Strażniczka magicznych miejsc
+- Interakcja: Może zostać sprzymierzeńcem jeśli gracz szanuje naturę
+
+WILKOŁAK
+- Imię: Fenris (dawniej Thomas Woodcutter)
+- Przeszłość: Drwal przeklęty przez magię lorda
+- Charakter: Rozdarty między człowieczeństwem a bestialstwem
+- Rola: Przeciwnik/sprzymierzeniec w zależności od podejścia
+- Rozwój: Można go uzdrowić lub pokonać
+
+=== ANTAGONIŚCI ===
+
+ARCYALCHEMIK MALACHAR
+- Pochodzenie: Dawny uczeń lorda Yosemantii
+- Cel: Przejęcie kontroli nad niebieskim płynem
+- Charakter: Bezwzględny, manipulacyjny, inteligentny
+- Moce: Potężna alchemia, kontrola nad potworami
+- Lokalizacja: Twierdza Cieni
+
+KRÓLOWA CIENI  
+- Pochodzenie: Demon uwolniony przez eksperymenty lorda
+- Cel: Rozprzestrzenienie ciemności na cały świat
+- Charakter: Zimna, okrutna, pokusa potęgi
+- Moce: Magia cieni, korupcja umysłów
+- Wpływ: Może skusić gracza na ciemną stronę
+
+KAPITAN REDBEARD
+- Imię: Captain Bloodfang
+- Przeszłość: Pirat szukający magicznych skarbów
+- Charakter: Chaotyczny, chciwy, ale honorowy
+- Rola: Konkurent w poszukiwaniu artefaktów
+- Potencjał: Może stać się nieprzewidywalnym sprzymierzeńcem
+
+=== POSTACIE POBOCZNE ===
+
+KAPŁAN ŚWIATŁA
+- Imię: Brother Luminous
+- Rola: Uzdrowiciel, źródło błogosławieństw
+- Lokalizacja: Świątynia Słońca
+
+KRASNOLUD KOWAL
+- Imię: Thorin Ironforge  
+- Rola: Ulepszanie broni i zbroi
+- Lokalizacja: Ukryta kuźnia w górach
+
+KARCZMARZ
+- Imię: Jolly Pete
+- Rola: Informacje, odpoczynek, handel
+- Lokalizacja: Tawerna "Pod Złamanym Mieczem"
+
+TAJEMNICZY PODRÓŻNIK
+- Imię: Nieznane (nosi kaptur)
+- Rola: Dawca misji, sprzedawca rzadkich przedmiotów
+- Charakter: Enigmatyczny, może być kimś ważnym
+
+=== MECHANIKA RELACJI ===
+
+SYSTEM ZAUFANIA (0-100 punktów):
+- 0-25: Wrogi/Nieufny
+- 26-50: Neutralny  
+- 51-75: Przyjazny
+- 76-100: Oddany/Romantyczny
+
+WPŁYW NA DIALOGI:
+- Różne opcje w zależności od poziomu relacji
+- Sekretne informacje przy wysokim zaufaniu
+- Możliwość romantycznych wątków
+- Wspólne misje i pomoc w walce
+
+SPOSOBY BUDOWANIA RELACJI:
+- Pomaganie w zadaniach
+- Uczciwe odpowiedzi
+- Dawanie prezentów
+- Ochrona przed niebezpieczeństwem
+- Wspólne przeżycia
+
+=== EWOLUCJA POSTACI ===
+
+ETAPY ROZWOJU NPCów:
+1. Poznanie - podstawowe dialogi
+2. Zaufanie - więcej informacji, małe prośby
+3. Przyjaźń - większe zadania, sekrety
+4. Oddanie - pomoc w finalnych misjach
+5. Legenda - wspomnienia o graczu po ukończeniu gry
