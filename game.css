@@ -17,8 +17,68 @@ body{
     display: grid;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 30px;
     padding: 20px;
+}
+
+.stats-panel {
+    max-width: 800px;
+    width: 100%;
+    padding: 15px;
+    background: #2c3e50;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.stat-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background: #34495e;
+    border-radius: 4px;
+}
+
+.stat-item span:first-child {
+    color: #ecf0f1;
+    font-size: 12px;
+}
+
+.stat-item span:last-child {
+    color: #f39c12;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.inventory {
+    border-top: 2px solid #34495e;
+    padding-top: 10px;
+}
+
+.inventory span {
+    color: #ecf0f1;
+    font-size: 12px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+#inventory-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.inventory-item {
+    background: #27ae60;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-size: 10px;
 }
 
 .btn-grid{
