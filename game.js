@@ -37,7 +37,6 @@ function selectOption(option) {
   }
   state = Object.assign(state, option.setState)
   showTextNode(nextTextNodeId)
-  onclick.pictureChange()
 }
 
 
@@ -184,15 +183,73 @@ const textNodes = [
     options: [
       {
         text: 'Zjedz bulke ktora kupiles u handlarza',
+        requiredState: (currentState) => currentState.bulka,
         nextText: 11
       },
       {
         text: 'Przeszukaj zamek',
         nextText: 12
       },
-
     ]
   },
+  {
+    id: 11,
+    text: 'Zjadasz bulke i odzyskujesz sily. Czujesz sie lepiej i gotowy na dalsze przygody.',
+    options: [
+      {
+        text: 'Przeszukaj zamek',
+        nextText: 12
+      },
+      {
+        text: 'Przespij sie w wygodnym lozku',
+        nextText: 13
+      }
+    ]
+  },
+  {
+    id: 12,
+    text: 'Przeszukujac zamek znajdujesz skrzynke z zlotymi monetami i magiczny miecz. Jestes bogaty i potezny!',
+    options: [
+      {
+        text: 'Wroc do wioski jako bohater',
+        nextText: 14
+      },
+      {
+        text: 'Wyrusz na dalsze przygody',
+        nextText: 15
+      }
+    ]
+  },
+  {
+    id: 13,
+    text: 'Spisz spokojnie w zamku. Rano budzisz sie wypoczety i gotowy na nowe wyzwania.',
+    options: [
+      {
+        text: 'Przeszukaj zamek',
+        nextText: 12
+      }
+    ]
+  },
+  {
+    id: 14,
+    text: 'Wracasz do wioski jako bohater z magicznym mieczem i skarbem. Mieszkancy cie witaja z radoscia. Wygrales!',
+    options: [
+      {
+        text: 'Zagraj ponownie',
+        nextText: -1
+      }
+    ]
+  },
+  {
+    id: 15,
+    text: 'Wyruszasz w swiat na poszukiwanie nowych przygod. Kim wiesz, moze pewnego dnia stanie sie z ciebie legenda... Wygrales!',
+    options: [
+      {
+        text: 'Zagraj ponownie',
+        nextText: -1
+      }
+    ]
+  }
 
 ]
 

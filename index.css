@@ -14,33 +14,63 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    
-    }
- 
- html {
-   font-family: sans-serif;
-   line-height: 1.15;
-   -webkit-text-size-adjust: 100%;
-   -ms-overflow-style: scrollbar;
-   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
- }
- 
- @-ms-viewport {
-   width: device-width;
- }
- .menu{
-    display: grid;
-    gap: 30px;
-    justify-content: center;
 }
+
+body {
+    background: #212529;
+    color: white;
+    font-family: 'Press Start 2P', monospace;
+    display: grid;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.menu{
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
 .menu a{
     color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    text-align: center;
+    transition: all 0.2s;
 }
+
+.menu a:hover {
+    transform: translateY(-2px);
+}
+
 .content{
     display: grid;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 50px;
+    text-align: center;
+}
+
+.nes-text {
+    font-size: 48px;
+}
+
+@media only screen and (max-width: 600px) {
+    .nes-text {
+        font-size: 24px;
+    }
+    
+    .menu a {
+        font-size: 10px;
+        padding: 10px 16px;
+    }
+    
+    .content {
+        gap: 30px;
+    }
 }
 
 
