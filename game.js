@@ -1,5 +1,5 @@
-const textElement = document.getElementById('text')
-const optionButtonsElement = document.getElementById('option-buttons')
+let textElement
+let optionButtonsElement
 
 let state = {}
 let inventory = {}
@@ -8,6 +8,12 @@ let playerStats = {
   health: 100,
   knowledge: 0,
   reputation: 0
+}
+
+function initializeGame() {
+  textElement = document.getElementById('text')
+  optionButtonsElement = document.getElementById('option-buttons')
+  startGame()
 }
 
 function startGame() {
@@ -1274,3 +1280,8 @@ function updateUI() {
     inventoryList.textContent = 'Pusty'
   }
 }
+
+// Inicjalizacja gry po załadowaniu strony
+document.addEventListener('DOMContentLoaded', function() {
+  initializeGame()
+})
